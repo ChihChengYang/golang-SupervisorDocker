@@ -1,5 +1,5 @@
  
-A demo program for creating a multi-process controller with Supervisor & Docker
+A demo program for managing processes with Supervisor & Docker
 
 ================
 
