@@ -33,6 +33,8 @@ Through "http://127.0.0.1:9080/?start=yes&num=3" the master program will notify 
     a. docker build -t="centos/ms" . 
     
     b. docker run -p 9080:9080 -t -i centos/ms OR docker run --net=host -t -i centos/ms
+	
+	   Detached "-d" instead of "-t -i", run a container in the detached mode.
 
  
 
